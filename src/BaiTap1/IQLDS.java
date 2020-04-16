@@ -7,8 +7,14 @@ package BaiTap1;
 
 /**
  *
- * @author computer
+ * @author Quynh
  */
 public interface IQLDS {
-    
+    public int them(CaNhan a);
+    public int xoa(String ten);
+    public void inDS();
+            
+            
+            
+            
 }
